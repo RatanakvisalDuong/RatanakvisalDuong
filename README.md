@@ -6,12 +6,14 @@
 
 - 🔭 I’m currently working on a mobile app project **Saat Menu Mobile App**
 
+- 🌱 I’m currently learning **Cyber Security focusing on Vulnerability Assessment and Penetration Testing.**
+
 - 📫 How to reach me **salduong97@gmail.com or rduong1@paragoniu.edu.kh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/duong ratanakvisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duong ratanakvisal" height="30" width="40" /></a>
-<a href="https://fb.com/ratanakvisal duong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ratanakvisal duong" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/duong-ratanakvisal-38828925b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duong-ratanakvisal-38828925b" height="30" width="40" /></a>
+<a href="https://fb.com/thesals17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thesals17" height="30" width="40" /></a>
 <a href="https://instagram.com/lasivkanatar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lasivkanatar" height="30" width="40" /></a>
 </p>
 
